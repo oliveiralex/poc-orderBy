@@ -1,0 +1,20 @@
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Grande Sertão: Veredas', 'Nova Fronteira', 2006, 'João Guimarães Rosa');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Grande Sertão: Veredas', 'Nova Fronteira', 2015, 'João Guimarães Rosa');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Grande Sertão: Veredas', 'Companhia das Letras', 2019, 'João Guimarães Rosa');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Grande Sertão: Veredas', 'Companhia de Bolso', 2021, 'João Guimarães Rosa');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Dom Casmurro', 'Penguin Companhia das Letras', 2016, 'Machado de Assis');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Dom Casmurro', 'Panda Books', 2019, 'Machado de Assis');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Dom Casmurro', 'Antofágica', 2020, 'Machado de Assis');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Vidas Secas', 'Record', 2014, 'Graciliano Ramos');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Vidas Secas', 'Record', 2018, 'Graciliano Ramos');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Quarto de Despejo', 'Ática', 2014, 'Carolina Maria de Jesus');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Quarto de Despejo', 'Ática', 2021, 'Carolina Maria de Jesus');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Cem Anos de Solidão ', 'Record', 2014, 'Gabriel García Márquez');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Cem Anos de Solidão ', 'Record', 2019, 'Gabriel García Márquez');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Crime e Castigo', 'Todavia', 2019, 'Fiódor Dostoiévski');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Crime e Castigo', 'Editora 34', 2019, 'Fiódor Dostoiévski');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Um defeito de cor', 'Record', 2021, 'Ana Maria Gonçalves');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Amoras', 'Laboratório Fantasma', 2018, 'Emicida');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('O mundo se despedaça', 'Companhia das letras', 2009, 'Chinua Achebe');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('O mundo se despedaça', 'TAG - Companhia das letras', 2019, 'Chinua Achebe');
+

@@ -20,15 +20,13 @@ public class Book implements Serializable {
 	private Long id;
     private String name;
     private String publisher;
-    
-    @Column(columnDefinition = "DATE")
-    private LocalDate publication_date; 
+    private Integer publication_date; 
     private String author;
     
     public Book() {
     }
 
-	public Book(Long id, String name, String publisher, LocalDate publication_date, String author) {
+	public Book(Long id, String name, String publisher, Integer publication_date, String author) {
 		this.id = id;
 		this.name = name;
 		this.publisher = publisher;
@@ -60,11 +58,11 @@ public class Book implements Serializable {
 		this.publisher = publisher;
 	}
 
-	public LocalDate getPublication_date() {
+	public Integer getPublication_date() {
 		return publication_date;
 	}
 
-	public void setPublication_date(LocalDate publication_date) {
+	public void setPublication_date(Integer publication_date) {
 		this.publication_date = publication_date;
 	}
 
