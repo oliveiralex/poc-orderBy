@@ -9,8 +9,8 @@ INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Vidas Secas'
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Vidas Secas', 'Record', 2018, 'Graciliano Ramos');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Quarto de Despejo', 'Ática', 2014, 'Carolina Maria de Jesus');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Quarto de Despejo', 'Ática', 2021, 'Carolina Maria de Jesus');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Cem Anos de Solidão ', 'Record', 2014, 'Gabriel García Márquez');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Cem Anos de Solidão ', 'Record', 2019, 'Gabriel García Márquez');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Cem Anos de Solidão', 'Record', 2014, 'Gabriel García Márquez');
+INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Cem Anos de Solidão', 'Record', 2019, 'Gabriel García Márquez');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Crime e Castigo', 'Todavia', 2019, 'Fiódor Dostoiévski');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Crime e Castigo', 'Editora 34', 2019, 'Fiódor Dostoiévski');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Um defeito de cor', 'Record', 2021, 'Ana Maria Gonçalves');
