@@ -23,5 +23,4 @@ public class BookResource {
 		List<Book> result = repository.findAll();
 		return ResponseEntity.ok(result);
 	}
-
 }

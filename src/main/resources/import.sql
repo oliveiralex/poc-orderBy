@@ -7,18 +7,9 @@ INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Sagarana', '
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Sagarana', 'Global', 2019, 'João Guimarães Rosa');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Quincas Borba', 'Penguin Companhia das Letras', 2012, 'Machado de Assis');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Quincas Borba', 'Antofágica', 2021, 'Machado de Assis');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Olhos d'água', 'Pallas', 2014, 'Conceição Evaristo');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Vidas Secas', 'Record', 2014, 'Graciliano Ramos');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Vidas Secas', 'Record', 2018, 'Graciliano Ramos');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Becos da Memória', 'Pallas', 2018, 'Conceição Evaristo');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Quarto de Despejo', 'Ática', 2014, 'Carolina Maria de Jesus');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Quarto de Despejo', 'Ática', 2021, 'Carolina Maria de Jesus');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Cem Anos de Solidão', 'Record', 2014, 'Gabriel García Márquez');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Cem Anos de Solidão', 'Record', 2019, 'Gabriel García Márquez');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Crime e Castigo', 'Todavia', 2019, 'Fiódor Dostoiévski');
 INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Crime e Castigo', 'Editora 34', 2019, 'Fiódor Dostoiévski');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Um defeito de cor', 'Record', 2021, 'Ana Maria Gonçalves');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('Amoras', 'Laboratório Fantasma', 2018, 'Emicida');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('O mundo se despedaça', 'Companhia das letras', 2009, 'Chinua Achebe');
-INSERT INTO tb_book(name,publisher,publication_date,author) VALUES('O mundo se despedaça', 'TAG - Companhia das letras', 2019, 'Chinua Achebe');
-

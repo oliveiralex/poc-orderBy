@@ -18,17 +18,17 @@ public class Book implements Serializable {
 	private Long id;
     private String name;
     private String publisher;
-    private Integer publication_date; 
+    private Integer publicationDate;
     private String author;
     
     public Book() {
     }
 
-	public Book(Long id, String name, String publisher, Integer publication_date, String author) {
+	public Book(Long id, String name, String publisher, Integer publicationDate, String author) {
 		this.id = id;
 		this.name = name;
 		this.publisher = publisher;
-		this.publication_date = publication_date;
+		this.publicationDate = publicationDate;
 		this.author = author;
 	}
 
@@ -57,11 +57,11 @@ public class Book implements Serializable {
 	}
 
 	public Integer getPublication_date() {
-		return publication_date;
+		return publicationDate;
 	}
 
-	public void setPublication_date(Integer publication_date) {
-		this.publication_date = publication_date;
+	public void setPublication_date(Integer publicationDate) {
+		this.publicationDate = publicationDate;
 	}
 
 	public String getAuthor() {
