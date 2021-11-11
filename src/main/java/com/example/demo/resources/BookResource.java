@@ -23,4 +23,16 @@ public class BookResource {
 		List<Book> result = repository.findAll();
 		return ResponseEntity.ok(result);
 	}
+	
+	@GetMapping(value = "/sortByName")
+	public ResponseEntity<List<Book>> findOrderByName() {
+		List<Book> result = repository.findByOrderByNameAsc();
+		return ResponseEntity.ok(result);
+	}
+	
+	@GetMapping(value = "/sortByAuthorAndDate")
+	public ResponseEntity<List<Book>> findOrderByAuthorAndDate() {
+		List<Book> result = repository.findByOrderByAuthorAscPublicationDateDesc();
+		return ResponseEntity.ok(result);
+	}
 }
