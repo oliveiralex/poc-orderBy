@@ -1,4 +1,4 @@
-# Entendendo a cláusula ORDER BY do SQL 
+# Consultas com Query Methods e ORDER BY no Spring Boot 
 
 #### DevSuperior - Alexandre Oliveira
 
